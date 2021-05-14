@@ -1,0 +1,3 @@
+flirt -in IN.nii.gz -ref IN.nii.gz -applyisoxfm 2.0 -nosearch -out IN_scaled.nii
+
+#resample MNI 1x1x1 into MNI 2x2x2
